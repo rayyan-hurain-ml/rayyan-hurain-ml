@@ -1,13 +1,18 @@
 ## Hi there 👋 
 I'm Rayyan Hurain, a AI ML Engineer I build whatever comes to my mind. 
+
 If an idea sticks with me, chances are I'll build it and make it the best version possible.
-My main tech stack is **Python** & **SQL**.
-My favorite tools are **Figma**, **Cursor**, **Claude**, **Replit**, and **N8n**. 
+
+↪ My main tech stack is **Python** & **SQL**.
+
+↪ My favorite tools are **Figma**, **Cursor**, **Claude**, **Replit**, and **N8n**. 
 
 ## Fun Facts:
-I love sleeping.
-I'm lazy... until I start working. Once I do, I don't stop until it's top-level.
-Coffee is my favorite coding companion.
+● I love sleeping.
+
+● I'm lazy... until I start working. Once I do, I don't stop until it's top-level.
+
+● Coffee is my favorite coding companion.
 
 I'm a learner and explorer who enjoys discovering how things work and creating something useful from it.
 
